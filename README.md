@@ -1,4 +1,4 @@
-
+Tested on Node v10.11.0
 ---------------
 ```sh
 # clone it
